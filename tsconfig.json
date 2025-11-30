@@ -1,0 +1,41 @@
+{
+    "compilerOptions": {
+        "target": "es2016",
+        "moduleResolution": "node",
+        "types": [
+            "node"
+        ],
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext"
+        ],
+        "module": "commonjs",
+        "strict": true,
+        "noImplicitAny": false, // Cho phép linh động kiểu dữ liệu (tốt cho người mới)
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true, // Cho phép import file .json
+        "baseUrl": ".",
+        "paths": {
+            "@config/*": [
+                "config/*"
+            ],
+            "@src/*": [
+                "src/*"
+            ], // Alias để import gọn hơn (VD: @src/pages/...)
+            "@test-data/*": [
+                "test-data/*"
+            ]
+        }
+    },
+    "include": [
+        "src/**/*.ts",
+        "tests/**/*.ts",
+        "playwright.config.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
