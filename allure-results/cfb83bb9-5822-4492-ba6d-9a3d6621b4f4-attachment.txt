@@ -1,8 +1,0 @@
----------------------------------------------
-🔑 Dùng Token: eyJraWQiOiIwV0d...
-🎯 Đăng vào Group: 47ad0890-0790-47ff-bbcb-2d79f963be5b
-📝 Nội dung: API Manual Test 1764481822915 - Hello World
----------------------------------------------
---- 🟡 Bước 1: Gọi API Create Draft ---
-🔍 DEBUG HEADER: Đang gửi Token với độ dài 1070 ký tự.
-🔍 DEBUG HEADER: 10 ký tự đầu: eyJraWQiOi...

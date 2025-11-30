@@ -1,7 +1,0 @@
---- 🟢 SETUP: Đang đăng nhập... ---
---- 🍪 Checking for Cookie Banner... ---
---- ⏭️ Không thấy Cookie Banner, bỏ qua. ---
---- 🟡 STEP 1: Chọn nơi đăng bài ---
---- 🟡 STEP 2: Nhập nội dung + upload ảnh + Đăng ---
---- 🔵 STEP 3: Verify bài viết đã hiện lên ---
-✅ Test Passed!

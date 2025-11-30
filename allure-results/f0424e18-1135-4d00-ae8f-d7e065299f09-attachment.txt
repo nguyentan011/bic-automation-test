@@ -1,2 +1,0 @@
-⚠️ Không bắt được response upload theo filter, hãy check lại URL match.
-⚠️ Không tìm thấy preview ảnh – kiểm tra lại locator imagePreview nếu cần.
